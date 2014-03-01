@@ -1,3 +1,8 @@
+BitShine is a fork of Bleachbit by Andrew Ziem.
+The goal of this fork is to improve and evolve BitShine to a more hardened and useful tool for maintaining privacy.
+
+
+
 CleanerML Repository
 ====================
 
@@ -6,15 +11,15 @@ This repository is an experiment whether GitHub provides an efficent platform fo
 
 CleanerML
 ---------
-CleanerML is a simple yet powerful markup language for writing cleaners. Most of BleachBit's cleaners are written in CleanerML, and you can write your own cleaners in CleanerML too.
+CleanerML is a simple yet powerful markup language for writing cleaners. Most of BitShine's cleaners are written in CleanerML, and you can write your own cleaners in CleanerML too.
 
 You can think of it as writing XML to delete files, but it is more powerful than that. 
 
 
 
-BleachBit
+BitShine
 ---------
-BleachBit is an open source system cleaner for Windows and Linux.
+BitShine is an open source system cleaner for Windows, GNU/Linux, some flavors of BSD, and soon Android and Mac OS X
 
 
 
@@ -31,7 +36,7 @@ How to use
 
 In the future automated sync may be as easy as checking one option, but for now you must manually
 download and copy the files to your personal cleaners directory.  The easiest way to find the
-directory is to open BleachBit, click Help, click System Information, and look for personal_cleaner_dir.
+directory is to open BitShine, click Help, click System Information, and look for personal_cleaner_dir.
 
 
 Contents
